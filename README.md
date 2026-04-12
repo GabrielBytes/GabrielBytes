@@ -24,7 +24,7 @@
 
 ###
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/21/62/7c/21627c321f7790ff26f9dd23476a826d.gif"  />
+<img align="left" height="100" src="https://i.pinimg.com/originals/21/62/7c/21627c321f7790ff26f9dd23476a826d.gif"  />
 
 ###
 

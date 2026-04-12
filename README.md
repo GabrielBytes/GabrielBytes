@@ -1,4 +1,4 @@
-<br clear="both"> 
+<br clear="both">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=Code,%20Break,%20Learn,%20Repeat.&fontSize=60&fontColor=FFECD4&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&descSize=100&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />

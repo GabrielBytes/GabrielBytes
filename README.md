@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="left">IT Student | Musician | Debugging life one bug at a time</p>
+<p align="left">Service Enginner | Musician | Debugging life one bug at a time</p>
 
 ###
 
